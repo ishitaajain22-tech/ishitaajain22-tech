@@ -44,7 +44,6 @@
 **Result:** S-SSIM **0.8234**, PSNR **33.61**, SSIM **0.735**, NDVI MAE **0.048** (an **18.8% reduction** from Stage 1)
 **Engineering:** Handled API failures, corrupted files and session limits in the data pipeline.
 **Stack:** `PyTorch` `Diffusion Models` `Sentinel-1/2` `Kaggle` `LaTeX`
-🔗 [Code](TODO_REPO_URL) · [Paper](TODO_PAPER_URL)
 
 ---
 
@@ -53,8 +52,6 @@
 **What I built:** A full-stack system that fuses Sentinel-1 + Sentinel-2, classifies crops (including rice vs wheat) with Random Forests, detects crop phenology, and runs a water-balance advisory engine.
 **Rigor:** Recommendations cross-checked against Punjab Agricultural University guidelines; ground-truth points hand-extracted via Google Earth Engine.
 **Stack:** `Python` `Google Earth Engine` `Random Forest` `Remote Sensing`
-🔗 [Code](TODO_REPO_URL) · [Demo](TODO_DEMO_URL)
-
 ---
 
 ### 3. Gas Turbine Energy Yield Prediction *(ML for the Power Grid)*
@@ -67,7 +64,6 @@
 **Result:** Random Forest MAE **1.53 MWh**, R² **0.983**, versus Linear Regression MAE 2.90 (**47% improvement**)
 **Deliverables:** Model card + a plain-language summary for a non-technical plant manager.
 **Stack:** `scikit-learn` `Pandas` `Time-series` `Model Cards`
-🔗 [Code](TODO_REPO_URL)
 
 ---
 
@@ -75,14 +71,12 @@
 **Problem:** Help police intervene before stolen funds are withdrawn.
 **Approach:** Candidate-ranking over ATMs with LightGBM / XGBoost; engineered account, transaction, temporal and receive→withdrawal behaviour features; strict no-lookahead feature rules; chronological train/validation/test split; separate fraud risk-scoring stage.
 **Stack:** `LightGBM` `XGBoost` `Feature Engineering` `Geospatial`
-🔗 [Code](TODO_REPO_URL)
-
 ---
 
 ### 5. More Builds
-- 🎞️ **SlideFlow AI:** Chrome extension (Manifest V3) for voice and typed control of Google Slides using Web Speech API, Slides REST API, OAuth and Gemini. [Code](TODO_REPO_URL)
-- 🧑‍💻 **Intelligent Code Reviewer & Explainer:** CLI tool using the Gemini API with validated structured output and rich terminal rendering. [Code](TODO_REPO_URL)
-- 🔌 **Task API:** CRUD REST API in FastAPI with custom error handling and Swagger docs. [Code](TODO_REPO_URL)
+- 🎞️ **SlideFlow AI:** Chrome extension (Manifest V3) for voice and typed control of Google Slides using Web Speech API, Slides REST API, OAuth and Gemini. 
+- 🧑‍💻 **Intelligent Code Reviewer & Explainer:** CLI tool using the Gemini API with validated structured output and rich terminal rendering. 
+- 🔌 **Task API:** CRUD REST API in FastAPI with custom error handling and Swagger docs.
 
 ---
 
@@ -110,5 +104,4 @@
 
 <p align="center">
   <b>Let's talk.</b> I'm happy to walk through any project, the metrics, and what I'd do differently.<br/>
-  📫 <a href="mailto:TODO_EMAIL">TODO_EMAIL</a> · <a href="TODO_LINKEDIN">LinkedIn</a>
 </p>
