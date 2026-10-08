@@ -52,6 +52,7 @@
 **What I built:** A full-stack system that fuses Sentinel-1 + Sentinel-2, classifies crops (including rice vs wheat) with Random Forests, detects crop phenology, and runs a water-balance advisory engine.
 **Rigor:** Recommendations cross-checked against Punjab Agricultural University guidelines; ground-truth points hand-extracted via Google Earth Engine.
 **Stack:** `Python` `Google Earth Engine` `Random Forest` `Remote Sensing`
+
 ---
 
 ### 3. Gas Turbine Energy Yield Prediction *(ML for the Power Grid)*
