@@ -49,7 +49,9 @@
 
 ### 2. Bhoomi: Crop Monitoring & Irrigation Advisory *(ISRO Hackathon 2025)*
 **Problem:** Farmers in Punjab need timely, field-level irrigation guidance.
+
 **What I built:** A full-stack system that fuses Sentinel-1 + Sentinel-2, classifies crops (including rice vs wheat) with Random Forests, detects crop phenology, and runs a water-balance advisory engine.
+
 **Rigor:** Recommendations cross-checked against Punjab Agricultural University guidelines; ground-truth points hand-extracted via Google Earth Engine.
 **Stack:** `Python` `Google Earth Engine` `Random Forest` `Remote Sensing`
 
