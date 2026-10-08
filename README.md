@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| **Looking for** | ML / Data Science / Applied AI internships and entry-level roles *(TODO: confirm)* |
+| **Looking for** | ML / Data Science / Applied AI internships and entry-level roles |
 | **Strongest at** | End-to-end ML: data pipeline → modelling → honest evaluation → API/CLI delivery |
 | **Domain depth** | Satellite imagery (Sentinel-1/2), agriculture, energy, financial-crime analytics |
 | **Research** | Original diffusion-model work on cloud removal, written as an IEEE-format paper |
@@ -65,12 +65,6 @@
 **Deliverables:** Model card + a plain-language summary for a non-technical plant manager.
 **Stack:** `scikit-learn` `Pandas` `Time-series` `Model Cards`
 
----
-
-### 4. SIH260184: ATM Cash-Out Location Prediction *(Smart India Hackathon 2026, in progress)*
-**Problem:** Help police intervene before stolen funds are withdrawn.
-**Approach:** Candidate-ranking over ATMs with LightGBM / XGBoost; engineered account, transaction, temporal and receive→withdrawal behaviour features; strict no-lookahead feature rules; chronological train/validation/test split; separate fraud risk-scoring stage.
-**Stack:** `LightGBM` `XGBoost` `Feature Engineering` `Geospatial`
 ---
 
 ### 5. More Builds
